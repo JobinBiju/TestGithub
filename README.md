@@ -1,2 +1,3 @@
 # TestGithub
-github test repo
+
+github test repositary for learning different spects of github.

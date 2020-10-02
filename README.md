@@ -1,3 +1,3 @@
 # TestGithub
 
-github test repositary for learning different spects of github.
+github test repositary for learning different aspects of github.
